@@ -1,0 +1,15 @@
+{
+  "id": "click.vseti.app",
+  "version": "3.2.4",
+  "type": "web",
+  "title": "Vseti",
+  "appDescription": "Vseti для LG webOS",
+  "iconUri": "https://kinovestnik.github.io/Vseti-webos/icon.png",
+  "sourceUrl": "https://github.com/KinoVestnik/Vseti-webos",
+  "rootRequired": false,
+  "ipkUrl": "https://github.com/KinoVestnik/Vseti-webos/releases/download/v3.2.4/Vseti_webOS_v3.2.4.ipk",
+  "ipkHash": {
+    "sha256": "2310245692d6103680cbdce98bd169261751708a3ab1627d439b38670a9b8fd2"
+  },
+  "ipkSize": 6537876
+}

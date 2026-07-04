@@ -1,7 +1,9 @@
 # Vseti для LG webOS
 
-Приложение Vseti для телевизоров LG на webOS.
+Установка через Homebrew Channel:
 
-Готовый файл `.ipk` находится в разделе **Releases**: [скачать последнюю версию](https://github.com/KinoVestnik/Vseti-webos/releases/latest).
+```text
+https://kinovestnik.github.io/Vseti-webos/lg
+```
 
-Для установки требуется режим разработчика или другой поддерживаемый телевизором способ установки `.ipk`.
+Также можно скачать IPK-файл вручную в разделе Releases.
