@@ -4,7 +4,7 @@
   "type": "web",
   "title": "Vseti",
   "appDescription": "Vseti для LG webOS",
-  "iconUri": "https://kinovestnik.github.io/Vseti-webos/icon.png",
+  "iconUri": "https://KinoVestnik.github.io/Vseti-webos/icon.png",
   "sourceUrl": "https://github.com/KinoVestnik/Vseti-webos",
   "rootRequired": false,
   "ipkUrl": "https://github.com/KinoVestnik/Vseti-webos/releases/download/v3.2.4/Vseti_webOS_v3.2.4.ipk",

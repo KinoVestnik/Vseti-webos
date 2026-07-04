@@ -9,8 +9,8 @@
     {
       "id": "click.vseti.app",
       "title": "Vseti",
-      "iconUri": "https://kinovestnik.github.io/Vseti-webos/icon.png",
-      "manifestUrl": "https://kinovestnik.github.io/Vseti-webos/click.vseti.app.manifest.json",
+      "iconUri": "https://KinoVestnik.github.io/Vseti-webos/icon.png",
+      "manifestUrl": "https://KinoVestnik.github.io/Vseti-webos/click.vseti.app.manifest.json",
       "shortDescription": "Vseti для LG webOS",
       "pool": "main"
     }
